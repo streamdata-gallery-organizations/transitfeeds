@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26209-rta-
 x-kinRank: "7"
 x-alexaRank: "558301"
 tags: TransitFeeds
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-31"
+modified: "2018-08-31"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/transitfeeds/master/_listings/transitfeeds/apis.md
 specificationVersion: "0.14"
 apis:

@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - TransitFeeds",
+	"description": "This is a repository of transitfeeds APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/transitfeeds.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://transitfeeds.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "TransitFeeds",
+			"x-api-slug": "transitfeeds",
+			"description": "The best source of open official public transit data. Maintained by @qzervaas + others",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26209-rta-service-alerts.jpg",
+			"humanURL": "https://transitfeeds.com",
+			"baseURL": "https://api.transitfeeds.com//v1",
+			"tags": "TransitFeeds",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/transitfeeds/master/_listings/transitfeeds/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "TransitFeeds",
+	"include": [
+		{
+			"name": "TransitFeeds",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/transitfeeds/master/_listings/transitfeeds/apis.yaml"
+		}
+	]
+}
